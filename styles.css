@@ -6,7 +6,7 @@ body {
 }
 
 .header {
-    background: #003366;
+    background: #356a9f;
     color: white;
     position: fixed;
     top: 0;
@@ -32,7 +32,7 @@ body {
 }
 
 .footer {
-    background: #003366;
+    background: #356a9f;
     color: white;
     text-align: center;
     font-size: 14px;
@@ -111,7 +111,7 @@ h3 {
 }
 
 .tab, .default-link, .contact-link {
-    background: #0055aa;
+    background: #356a9f;
     color: white;
     padding: 8px 12px;
     border-radius: 4px;
@@ -125,7 +125,7 @@ h3 {
 }
 
 .tab:hover, .default-link:hover, .contact-link:hover {
-    background: #0077cc;
+    background: #003366;
     color: white;
 }
 
